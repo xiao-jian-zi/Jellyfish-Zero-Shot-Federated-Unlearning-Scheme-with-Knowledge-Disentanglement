@@ -1,5 +1,5 @@
-# Zero-Shot Federated Unlearning with Knowledge Disentanglement
-PyTorch code for the paper "Zero-Shot Federated Unlearning with Knowledge Disentanglement".
+# Jellyfish-Zero-Shot-Federated-Unlearning-Scheme-with-Knowledge-Disentanglement
+PyTorch code for the paper "Jellyfish: Zero-Shot Federated Unlearning Scheme with Knowledge Disentanglement".
 ## 1 Requirements
 We recommended the following dependencies.
 
